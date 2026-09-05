@@ -111,4 +111,4 @@ Meowmyasha is developed and maintained by **pl3dya4ever**.
 
 For privacy questions, concerns, or data removal requests, contact:
 
-**Discord:** `pledya4ever`!
+**Discord:** `pledya4ever`
