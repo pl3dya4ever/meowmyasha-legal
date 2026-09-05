@@ -56,8 +56,8 @@ Discord is a trademark of Discord Inc.
 
 ## 9. Contact
 
-Meowmyasha is developed and maintained by **Preedans**.
+Meowmyasha is developed and maintained by **pl3dya4ever**.
 
 For questions regarding these Terms or the Bot, contact:
 
-**Discord:** `preedans`
+**Discord:** `pl3dya4ever`
